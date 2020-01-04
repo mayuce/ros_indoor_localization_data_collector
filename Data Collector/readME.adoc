@@ -1,0 +1,1 @@
+This package presents *Android* app which contains *Data Collector* application.
