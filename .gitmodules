@@ -1,0 +1,12 @@
+[submodule "Wireless_Localization_RSSI_ROS"]
+	path = Wireless_Localization_RSSI_ROS
+	url = https://github.com/mayuce/Wireless_Localization_RSSI_ROS.git
+[submodule "WirelessLocalization"]
+	path = WirelessLocalization
+	url = https://github.com/mayuce/Wireless_Localization_RSSI_ROS.git
+[submodule "LocateMe"]
+	path = LocateMe
+	url = https://github.com/mayuce/LocateMe.git
+[submodule "DataCollector"]
+	path = DataCollector
+	url = https://github.com/mayuce/android_data_collector
